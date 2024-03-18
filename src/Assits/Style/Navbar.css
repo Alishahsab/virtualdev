@@ -1,0 +1,42 @@
+.navbar-bg{
+    background: 6px 6px 0px rgba(0, 0, 0, 1);
+}
+.nav-text{
+    color:white;
+    font-size: 14px;
+    font-weight: 900;
+    text-transform: uppercase;
+    margin: 0;
+    line-height: 12px;
+    transition: all linear 0.3s;
+    font-family: "Poppins", sans-serif;;
+    letter-spacing: 1px;
+    padding: 32px 20px;
+    margin-right: 28px;
+}
+.nav-item .active{
+    color: #55e6a5;
+}
+.nav-item :hover{
+    color: #55e6a5;
+}
+button.navbar-toggler {
+    background: transparent;
+    border: none;
+    font-size: 30px;
+}
+.navbar-main-lastchance{
+    position: absolute;
+    /* left: 0; */
+    top: 0%;
+    z-index: 1;
+   
+  }
+  .navbar-main-lastchance-one{
+    position:fixed;
+    /* left: 0; */
+    top: 0%;
+    z-index: 8596848697841;
+    
+    
+  }
